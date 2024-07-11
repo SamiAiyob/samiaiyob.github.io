@@ -1,9 +1,10 @@
-# I'm just looking around and chillaxing
+# I'm just looking around for jobs and chillaxing
 <img src="Me.jpg" alt="a photo of Sami and Gaga chillin">
 <ul>
-        <li>Supply chain management</li>
-        <li>Human resources management</li>
-        <li>Advanced negotiations</li>
-        <li>Basic software skills</li>
+        <li>Python fundamentals</li>
+        <li>Django, DRF, Flask</li>
+        <li>Pandas, NumPy</li>
+        <li>React.js</li>
+        <li>Project Management</li>
         <li>dog trainer</li>
     </ul>
